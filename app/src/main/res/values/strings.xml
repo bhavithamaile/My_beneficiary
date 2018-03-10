@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My_beneficiary</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">emailaddress</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+
+    <string name="item_name">item name</string>
+    <string name="description_of_item">describe</string>
+    <string name="action_upload">upload item</string>
+    <string name="action_sign_up">sign up</string>
+    <string name="title_activity_userpage">activity_userpage</string>
+</resources>
